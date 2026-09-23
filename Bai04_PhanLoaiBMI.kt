@@ -16,8 +16,6 @@ fun main() {
         phanLoai = "Béo phì"
     }
 
-    println("Chiều cao: $chieuCao m")
-    println("Cân nặng: $canNang kg")
     println("Chỉ số BMI: $bmi")
     println("Phân loại sức khỏe: $phanLoai")
 }
